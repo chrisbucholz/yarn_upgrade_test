@@ -5,6 +5,7 @@
   "license": "MIT",
   "type": "module",
   "dependencies": {
+    "narwhal-iam": "https://github.com/nucleuslabs/narwhal-iam#master",
     "yarn_upgrade_test_dependency": "https://github.com/chrisbucholz/yarn_upgrade_test_dependency#master"
   }
 }
