@@ -5,6 +5,6 @@
   "license": "MIT",
   "type": "module",
   "dependencies": {
-    "yarn_upgrade_test_dependency": "https://github.com/chrisbucholz/yarn_upgrade_test_dependency"
+    "yarn_upgrade_test_dependency": "https://github.com/chrisbucholz/yarn_upgrade_test_dependency#master"
   }
 }

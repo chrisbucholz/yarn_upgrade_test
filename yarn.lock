@@ -2,6 +2,6 @@
 # yarn lockfile v1
 
 
-"yarn_upgrade_test_dependency@https://github.com/chrisbucholz/yarn_upgrade_test_dependency":
+"yarn_upgrade_test_dependency@https://github.com/chrisbucholz/yarn_upgrade_test_dependency#master":
   version "1.0.0"
-  resolved "https://github.com/chrisbucholz/yarn_upgrade_test_dependency#8f352271f952da2070c70b8ada608733ac302d46"
+  resolved "https://github.com/chrisbucholz/yarn_upgrade_test_dependency#b0d6cf1a487ac156f77ba8c6bdd079a9e89645fd"
